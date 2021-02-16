@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/booster/static/css/main.428056bc.chunk.css",
+    "main.js": "/booster/static/js/main.0e3e2157.chunk.js",
+    "main.js.map": "/booster/static/js/main.0e3e2157.chunk.js.map",
+    "runtime-main.js": "/booster/static/js/runtime-main.c32d7bd0.js",
+    "runtime-main.js.map": "/booster/static/js/runtime-main.c32d7bd0.js.map",
+    "static/js/2.68f679e2.chunk.js": "/booster/static/js/2.68f679e2.chunk.js",
+    "static/js/2.68f679e2.chunk.js.map": "/booster/static/js/2.68f679e2.chunk.js.map",
+    "static/js/3.1d392b00.chunk.js": "/booster/static/js/3.1d392b00.chunk.js",
+    "static/js/3.1d392b00.chunk.js.map": "/booster/static/js/3.1d392b00.chunk.js.map",
+    "index.html": "/booster/index.html",
+    "static/css/main.428056bc.chunk.css.map": "/booster/static/css/main.428056bc.chunk.css.map",
+    "static/js/2.68f679e2.chunk.js.LICENSE.txt": "/booster/static/js/2.68f679e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c32d7bd0.js",
+    "static/js/2.68f679e2.chunk.js",
+    "static/css/main.428056bc.chunk.css",
+    "static/js/main.0e3e2157.chunk.js"
+  ]
+}
