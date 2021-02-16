@@ -37,6 +37,7 @@ module.exports = {
       'import/extensions': [ERROR, 'never'],
       'import/prefer-default-export': OFF,
       'indent': [ERROR, 2],
+      'linebreak-style': OFF,
       'no-console': OFF,
       'no-plusplus': OFF,
       'object-curly-newline': [ERROR, { consistent: true }],
